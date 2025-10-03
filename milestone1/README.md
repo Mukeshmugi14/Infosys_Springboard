@@ -5,6 +5,17 @@ Version2 - https://colab.research.google.com/drive/1PH5gfInm668KTaG3DDTZdcGIk67E
 CodeGenie provides line-by-line natural language explanations of Python code using lightweight templates, with side-by-side comparisons across three Sentence-Transformers variants to highlight phrasing differences per model choice.
 A Gradio interface is included to paste code, pick models, and view a comparison DataFrame of explanations for each line, alongside 10 included beginner-friendly code snippets for quick demos.
 
+###Why This Project?
+
+Learning to code isn’t just about writing syntax — it’s about understanding what the code means.
+This tool is perfect for:
+
+Students trying to break down complex code
+
+Beginners who want simple explanations line by line
+
+Researchers curious about how different language models interpret programming logic
+
 ### Features
 - Line-level explanations via templates keyed to common constructs such as def, if, elif, else, for, while, assignment, print, and return.
 - Three embedded models are loaded for explanation variants: all-MiniLM-L12-v2, all-distilroberta-v1, and all-mpnet-base-v2.
