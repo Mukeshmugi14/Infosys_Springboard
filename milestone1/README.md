@@ -1,6 +1,3 @@
-Click here to go Direct Collab Note : Version1 - https://colab.research.google.com/drive/17zPQRt1ACHzGOss75hgXkBJx0QgBY9lR?usp=sharing
-Version2 - https://colab.research.google.com/drive/1PH5gfInm668KTaG3DDTZdcGIk67Ez183?usp=sharing
-
 ### Overview
 CodeGenie provides line-by-line natural language explanations of Python code using lightweight templates, with side-by-side comparisons across three Sentence-Transformers variants to highlight phrasing differences per model choice.
 A Gradio interface is included to paste code, pick models, and view a comparison DataFrame of explanations for each line, alongside 10 included beginner-friendly code snippets for quick demos.
