@@ -2,7 +2,7 @@
 CodeGenie provides line-by-line natural language explanations of Python code using lightweight templates, with side-by-side comparisons across three Sentence-Transformers variants to highlight phrasing differences per model choice.
 A Gradio interface is included to paste code, pick models, and view a comparison DataFrame of explanations for each line, alongside 10 included beginner-friendly code snippets for quick demos.
 
-###Why This Project?
+### Why This Project?
 
 Learning to code isn’t just about writing syntax — it’s about understanding what the code means.
 This tool is perfect for:
