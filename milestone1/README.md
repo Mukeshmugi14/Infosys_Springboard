@@ -25,6 +25,17 @@ Researchers curious about how different language models interpret programming lo
 - Packages installed in-notebook: sentence-transformers, nltk, textstat, pandas, matplotlib, wordcloud, and gradio.[2]
 - NLTK data is fetched at runtime, including punkt_tab and stopwords, to support text processing steps.[2]
 
+### Model Overview
+
+MiniLM
+A lightweight Transformer model distilled from BERT and RoBERTa, designed for high efficiency and low latency while maintaining strong performance on NLP tasks such as semantic similarity and sentence embeddings.
+
+DistilRoBERTa
+A smaller, faster, and cheaper version of RoBERTa obtained through knowledge distillation. It retains about 95% of RoBERTa’s performance with fewer parameters, making it ideal for real-time applications.
+
+MPNet
+Combines the strengths of masked language modeling (like BERT) and permutation language modeling (like XLNet). MPNet improves context understanding and embedding quality, achieving state-of-the-art results on sentence similarity tasks.
+
 ### Installation
 The notebooks can be run directly in Jupyter or Colab; the first cell installs dependencies via pip and downloads the required NLTK resources automatically.[2]
 For a local environment outside the notebook workflow, install the same dependencies with pip and ensure Python 3 is available before running the code cells.[2]
