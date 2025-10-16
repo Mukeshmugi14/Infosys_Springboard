@@ -119,3 +119,29 @@ jupyter notebook
 Run the Gradio or Streamlight interface within the notebook and start benchmarking, analyzing, and visualizing model outputs!
 
 📈 Screenshots
+
+
+![WhatsApp Image 2025-10-16 at 20 31 27_bbd04be3](https://github.com/user-attachments/assets/a14a8bcc-db09-41bd-b777-466c43c745df)
+![WhatsApp Image 2025-10-16 at 20 36 15_348a43f3](https://github.com/user-attachments/assets/84b44d59-1ac5-49a9-98c4-1506d1288e92)
+
+LocalHost Interface
+
+![WhatsApp Image 2025-10-14 at 21 38 31_d410723e](https://github.com/user-attachments/assets/8d46b2f7-b3c8-4366-9b5f-34937dc41bec)
+
+💡 Contributions
+
+Contributions are welcome! Feel free to:
+
+Add new models
+
+Expand the test prompt suite
+
+Improve Gradio dashboards or visualizations
+
+📜 License
+
+This project is licensed under the MIT License.
+
+
+
+
