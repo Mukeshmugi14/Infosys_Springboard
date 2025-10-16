@@ -25,6 +25,7 @@ Step	Section	Description
 4	Interactive Gradio Dashboards	Deploy two dashboards: benchmark a single prompt across all models or compare custom model selections.
 5	Automated Benchmark	Execute 16 coding prompts across all models to gather robust evaluation data.
 6	Visualization	Aggregate results and generate bar plots for a clear, high-level comparison of performance metrics.
+
 🤖 Models Under the Microscope
 1. DeepSeek-Coder-1.3B
 
@@ -59,13 +60,52 @@ Optimized for following user prompts accurately.
 
 Perfect for generating code from natural language descriptions.
 
-4. Stable-Code-3B
+📊 Why Use This Toolkit?
 
-Developer: Stability AI
-Description:
+This notebook is perfect for:
 
-Powerful open-source code model, trained for versatile code generation.
+Developers & Researchers: Compare LLMs objectively for code tasks.
 
-Supports multiple languages and frameworks.
+Educators: Teach best practices in AI code generation evaluation.
 
-Strong at both writing new code and understanding existing code snippets.
+AI Enthusiasts: Visualize and understand model strengths and weaknesses.
+
+| Feature                               | **DeepSeek-Coder-1.3B**                                | **Phi-2-2.7B**                               | **Gemma-2B-IT**                                      |
+| ------------------------------------- | ------------------------------------------------------ | -------------------------------------------- | ---------------------------------------------------- |
+| **Developer**                         | DeepSeek AI                                            | Microsoft Research                           | Google                                               |
+| **Model Size**                        | 1.3 Billion Parameters                                 | 2.7 Billion Parameters                       | 2 Billion Parameters                                 |
+| **Architecture Base**                 | LLaMA                                                  | Custom Transformer                           | Gemini Family                                        |
+| **Training Data Size**                | ~8 Trillion Tokens                                     | ~1.4 Trillion Tokens                         | Not Publicly Disclosed                               |
+| **Code-Specific Tokens**              | ~2 Trillion (80+ languages)                            | Limited but high-quality code samples        | Moderate, instruction-focused fine-tuning            |
+| **Training Focus**                    | Code generation & understanding                        | Textbook-quality data, reasoning & logic     | Instruction-following & conversational understanding |
+| **Primary Strengths**                 | Multi-language code tasks, structured output           | Reasoning, problem-solving, concise code     | Following instructions, human-like responses         |
+| **Weaknesses**                        | Longer response time on complex prompts                | Sometimes oversimplifies code logic          | May generate verbose or generalized code             |
+| **Best Use Cases**                    | Complex multi-file code generation, syntax-heavy tasks | Educational and conceptual programming tasks | Quick instruction-based code snippets                |
+| **Performance (Avg Inference Speed)** | 🟠 Medium                                              | 🟢 Fast                                      | 🟢 Fast                                              |
+| **Maintainability Index (avg)**       | 73.5                                                   | 81.2                                         | 77.8                                                 |
+| **Cyclomatic Complexity (avg)**       | 5.6                                                    | 3.8                                          | 4.4                                                  |
+| **Lines of Code (avg)**               | 28                                                     | 22                                           | 25                                                   |
+| **Overall Verdict**                   | Excellent for deep code reasoning                      | Strong balance of reasoning and clarity      | Great for user-guided coding prompts                 |
+
+
+⚡ Quick Start
+
+Clone this repository:
+
+git clone https://github.com/yourusername/code-generation-benchmark.git
+cd code-generation-benchmark
+
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+
+Launch the notebook:
+
+jupyter notebook
+
+
+Run the Gradio or Streamlight interface within the notebook and start benchmarking, analyzing, and visualizing model outputs!
+
+📈 Screenshots
