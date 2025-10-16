@@ -1,4 +1,4 @@
-#🚀 Code Generation Model Benchmark Toolkit#
+🚀 CodeMaster Model 
 
 This project is your ultimate toolkit for evaluating and comparing small-to-medium Large Language Models (LLMs) on code generation tasks. Go beyond basic output checks—this notebook uses quantitative software metrics to provide a truly objective analysis of model performance.
 
@@ -92,6 +92,10 @@ Project CodeMaster Comparison
 
 
 ![WhatsApp Image 2025-10-17 at 00 18 36_7eec312b](https://github.com/user-attachments/assets/38870e70-2ea1-4ce3-9e70-ea60c2539cde)
+![WhatsApp Image 2025-10-17 at 00 18 24_9a002ea5](https://github.com/user-attachments/assets/3affc8e4-b1e5-4e5f-89ff-c30d25739b37)
+![WhatsApp Image 2025-10-17 at 00 18 08_ac8b3d64](https://github.com/user-attachments/assets/f02e8967-2142-4cb4-a1dd-0865aed8d803)
+
+
 
 
 ⚡ Quick Start
