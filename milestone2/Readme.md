@@ -1,4 +1,4 @@
-##🚀 Code Generation Model Benchmark Toolkit
+🚀 Code Generation Model Benchmark Toolkit
 
 This project is your ultimate toolkit for evaluating and comparing small-to-medium Large Language Models (LLMs) on code generation tasks. Go beyond basic output checks—this notebook uses quantitative software metrics to provide a truly objective analysis of model performance.
 
