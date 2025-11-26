@@ -1,6 +1,6 @@
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/051c4dd1-868f-412a-814f-d907e7122ea3" />
 
-# 🧞‍♂️ CodeGenie
+# CodeGenie
 ### AI Explainer and Code Generation Platform
 
 > **Convert ideas into clean code and code into clear understanding.**
@@ -354,15 +354,6 @@ Planned and potential future enhancements for CodeGenie:
 
 > This roadmap is aspirational and may evolve as feedback is received and the project grows.
 
-# 👥 Team
-
-| Name | Role | Responsibilities |
-|------|------|------------------|
-| Add Name | ML Engineer | model integration, quantization |
-| Add Name | Backend Developer | APIs, database, auth, OTP system |
-| Add Name | Frontend Developer | Streamlit UI & user experience |
-| Add Name | Documentation Lead | README, architecture diagrams |
-| Add Name | Lead | PPTs |
 
 
 ---
