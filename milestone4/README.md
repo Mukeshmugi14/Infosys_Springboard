@@ -175,7 +175,7 @@ The application follows a modular architecture powered by Streamlit for the fron
 | Model | Use Case | Notes |
 | :--- | :--- | :--- |
 | **DeepSeek-Coder-1.3B** | Code Generation | High performance on logic generation. |
-| **Microsoft Phi-2** | General Chat & Logic | Lightweight, efficient reasoning model. |
+| **Microsoft Phi-2B** | General Chat & Logic | Lightweight, efficient reasoning model. |
 | **Python AST** | Structural Analysis | Native Python library for Abstract Syntax Trees. |
 
 ---
