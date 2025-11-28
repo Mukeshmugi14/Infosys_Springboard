@@ -3,6 +3,9 @@
 # CodeGenie
 ### AI Explainer and Code Generation Platform
 
+<img width="242" height="146" alt="image" src="https://github.com/user-attachments/assets/25bfbb40-8e0a-4e7f-bc27-062576bab88f" />
+
+
 > **Convert ideas into clean code and code into clear understanding.**
 
 [![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://streamlit.io/)
