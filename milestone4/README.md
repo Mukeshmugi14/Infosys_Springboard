@@ -383,6 +383,15 @@ Planned and potential future enhancements for CodeGenie:
 
 > This roadmap is aspirational and may evolve as feedback is received and the project grows.
 
+## 👥 Team Members & Responsibilities
+
+| Name               | Role                 | Responsibilities                                   |
+|--------------------|----------------------|----------------------------------------------------|
+| **Mukesh M**        | ML Engineer          | Model integration, quantization                    |
+| **Srivani**        | Backend Developer    | APIs, database management, authentication, OTP system |
+| **Krishna**       | Frontend Developer   | Streamlit UI development & user experience         |
+| **Dinesh**         | Documentation Lead   | README writing, architecture diagrams, documentation |
+| **Piyushmani Tiwari** | Team Lead         | PPT preparation, project coordination              |
 
 
 ---
