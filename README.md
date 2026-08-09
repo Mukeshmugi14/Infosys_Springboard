@@ -35,7 +35,7 @@ they don’t understand your codebase.
 
 They know how programming works in general, but not how your modules connect, how your functions are designed, or why your project is structured the way it is. As a result, they often hallucinate explanations, make incorrect assumptions, and miss the deeper intent behind your code. Developers end up with answers that look convincing but aren’t aligned with the actual logic or architecture of the project.
 
-CodeGenie was created to solve this gap.
+CodeGenie was created to solve this gap
 
 Instead of giving shallow or generic explanations, CodeGenie focuses on delivering *structured, meaningful, and context-conscious insights* into your code. Through AST-powered Python analysis, language-specific models, and carefully engineered explanation logic, it breaks code down the same way an experienced engineer would — into purpose, flow, structure, and reasoning.
 
